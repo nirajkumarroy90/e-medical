@@ -16,4 +16,4 @@ pip install django
  1. install py and django - 'python -m pip install Django'
  2. change directory and go to 'cd medi', 'cd hms' hms folder
  3. run django server - 'python manage.py runserver'
-
+ 
